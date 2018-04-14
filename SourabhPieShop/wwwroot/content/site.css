@@ -1,0 +1,25 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url('/images/pattern.png');
+    background-repeat: repeat;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*.thumbnails {
+    text-align: center;
+}*/
+
+.thumbnails > li > a {
+        display: inline-block;
+        float: none;
+    }
+
+.form-checkbox {
+    width: 20px ;
+    height: 20px;
+}

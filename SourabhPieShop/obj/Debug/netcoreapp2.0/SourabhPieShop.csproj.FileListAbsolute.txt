@@ -1,0 +1,11 @@
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\bin\Debug\netcoreapp2.0\SourabhPieShop.deps.json
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\bin\Debug\netcoreapp2.0\SourabhPieShop.runtimeconfig.json
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\bin\Debug\netcoreapp2.0\SourabhPieShop.runtimeconfig.dev.json
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\bin\Debug\netcoreapp2.0\SourabhPieShop.dll
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\bin\Debug\netcoreapp2.0\SourabhPieShop.pdb
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.csprojResolveAssemblyReference.cache
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.csproj.CoreCompileInputs.cache
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.AssemblyInfoInputs.cache
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.AssemblyInfo.cs
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.dll
+C:\Users\Sourabh\source\repos\SourabhPieShop\SourabhPieShop\obj\Debug\netcoreapp2.0\SourabhPieShop.pdb
